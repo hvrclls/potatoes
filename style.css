@@ -1,8 +1,9 @@
-head h1 {
-    font-size: larger;
-    text-align: center;
+* {
+    background-color: rgb(179, 155, 120);
 }
-head p {
-    display: inline;
-    white-space: nowrap;
+.mainimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
 }
