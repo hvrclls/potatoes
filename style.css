@@ -1,0 +1,8 @@
+head h1 {
+    font-size: larger;
+    text-align: center;
+}
+head p {
+    display: inline;
+    white-space: nowrap;
+}
